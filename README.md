@@ -1,3 +1,10 @@
+Name : MD Salman
+College : CBIT
+ID : CT08DS9192
+Domain : MERN Stack
+Duration : October to November 2024
+Mentor : Santhosh Kumar
+
 # Blog Application
 
 A full-stack blog application built using the MERN (MongoDB, Express, React, Node.js) stack. This application allows users to create, read and update blog posts, and it includes user authentication, a commenting system, and user profiles.
