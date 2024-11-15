@@ -1,6 +1,6 @@
 # Blog Application
 
-A full-stack blog application built using the MERN (MongoDB, Express, React, Node.js) stack. This application allows users to create, read, update, and delete blog posts, and it includes user authentication, a commenting system, and user profiles.
+A full-stack blog application built using the MERN (MongoDB, Express, React, Node.js) stack. This application allows users to create, read and update blog posts, and it includes user authentication, a commenting system, and user profiles.
 
 ## Features
 
